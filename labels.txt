@@ -1,0 +1,10 @@
+0: airport_inside
+1: bakery
+2: bedroom
+3: greenhouse
+4: gym
+5: kitchen
+6: operating_room
+7: poolinside
+8: restaurant
+9: toystore
